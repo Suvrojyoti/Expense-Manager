@@ -1,4 +1,4 @@
-# A To do list application made with MEAN stack
+# An Expense Manager list application made with MEAN stack
 
 ### Installation
 <ol>
